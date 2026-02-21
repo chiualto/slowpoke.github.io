@@ -1,5 +1,4 @@
-# All About Slowpoke
-The Slowpoke Shrine
+# Alton's Slowpoke Shrine
 
 
 <img src="shrine.jpg" width="1500">
