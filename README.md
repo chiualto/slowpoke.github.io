@@ -2,7 +2,8 @@
 The Slowpoke Shrine
 
 
-![slowpoke](shrine.jpg){width=1500}
+<img src="shrine.jpg" width="1500">
+
 
 ![slowpoke](well.jpg)
 
